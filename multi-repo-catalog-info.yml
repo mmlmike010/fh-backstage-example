@@ -5,5 +5,5 @@ metadata:
   description: A collection of all Backstage example components
 spec:
   targets:
-    - ./Maxs-service.yaml
+    - ../arr-tracker/playback.yml
     - ./User-Login-App.yaml
