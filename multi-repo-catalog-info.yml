@@ -6,4 +6,5 @@ metadata:
 spec:
   targets:
     - ../arr-tracker/playback.yml
-    - ./User-Login-App.yaml
+    - ../YelpCamp/yelpcamp.yml
+    - ../tab-master/tabmaster.yml
